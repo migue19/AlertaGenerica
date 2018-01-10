@@ -3,7 +3,7 @@ Alerta Generica
 
 ## Como generar una alerta generica con swift
 
-<p align= "center"><img src= "img/img1.png" width= "310px" height= "552px"></p>
+<p><img src= "img/img1.png" width= "310px" height= "552px"></p>
 
 
 
